@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GACJbckTZBLt18oDFDih311yoRsR8HHDclbljoidzGpNN56tSTDcKdbUd3pUmy9yKxNLOsHGB6drJgykuflCzg==",
+  "success": true,
+  "projectFilePath": "/Users/myass/Projects/albertWebScraper/albertScraper/albertScraper/albertWebScraper.csproj",
+  "expectedPackageFiles": [
+    "/Users/myass/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/myass/.nuget/packages/selenium.webdriver/4.22.0/selenium.webdriver.4.22.0.nupkg.sha512",
+    "/Users/myass/.nuget/packages/selenium.webdriver.chromedriver/126.0.6478.12600/selenium.webdriver.chromedriver.126.0.6478.12600.nupkg.sha512"
+  ],
+  "logs": []
+}
